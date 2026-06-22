@@ -1,5 +1,8 @@
-Credits:
+Credits:<br>
 Steven Fisher June 2026
 
-Summary:
-DayofWeekScanner: A simple java scanner that I built in five minutes. This is NOT a finished project.
+Summary: <br>
+DayofWeekScanner: <br>A simple java scanner that takes a number 1-7, with 1 being Sunday, and 7 being Saturday, and returns that specified day.
+<br><br>
+MultiChoiceGame: <br>A mutliple choice quiz game. Three questions, can you get them all right?
+<br><br>

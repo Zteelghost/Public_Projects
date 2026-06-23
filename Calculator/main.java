@@ -58,5 +58,6 @@ public class main {
             default:
                 System.out.println("Invalid selection. Please select a valid option.");
         }
+        outputByUser.close();
     }
 }
